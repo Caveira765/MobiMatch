@@ -1,10 +1,10 @@
-# 🚗 MobiMatch - Centralizador de Corridas (Uber • 99 • inDrive)
+# MobiMatch - Centralizador de Corridas (Uber • 99 • inDrive)
 
 O **MobiMatch** é um aplicativo web progressivo (PWA) e multiplataforma para centralizar a comparação de preços e tempos de chegada entre **Uber**, **99** e **inDrive** em uma única interface, abrindo cada aplicativo diretamente pelo Deep Link oficial.
 
 ---
 
-## 📱 Principais Funcionalidades
+## Principais Funcionalidades
 
 1. **Busca Unificada com GPS & Autocomplete:**
    - Obtenha sua localização atual com 1 toque no botão **GPS**.
@@ -31,7 +31,7 @@ O **MobiMatch** é um aplicativo web progressivo (PWA) e multiplataforma para ce
 
 ---
 
-## 🚀 Como Executar Localmente
+## Como Executar Localmente
 
 No terminal (PowerShell), certifique-se de estar na pasta do projeto e execute:
 
@@ -41,13 +41,13 @@ npm.cmd run dev
 
 O terminal exibirá os endereços de acesso:
 ```
-  ➜  Local:   http://localhost:5173/
-  ➜  Network: http://192.168.X.X:5173/
+    Local:   http://localhost:5173/
+    Network: http://192.168.X.X:5173/
 ```
 
 ---
 
-## 📲 Como Usar no Celular (Android ou iOS)
+## Como Usar no Celular (Android ou iOS)
 
 1. Conecte o celular na **mesma rede Wi-Fi** do computador.
 2. Abra o navegador do celular (Chrome no Android ou Safari no iOS) e acesse o endereço de rede:
